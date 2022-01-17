@@ -6,6 +6,4 @@ Instale o tomato a partir do repositório https://github.com/ssjunior/tomato
 
 yarn install
 
-yarn link tomato
-
 yarn start
