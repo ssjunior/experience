@@ -1,0 +1,7 @@
+build
+.yarn
+node_modules
+bkp
+apagar
+yarn.lock
+DS_Store
